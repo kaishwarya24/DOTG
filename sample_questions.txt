@@ -1,0 +1,26 @@
+Question 1: What is a primary key in a database?
+A) A key that can have duplicate values
+B) A key that uniquely identifies each record in a table
+C) A key that can be null
+D) A key used only for sorting data
+
+Correct answer: B
+Explanation: A primary key is a column or combination of columns that uniquely identifies each record in a database table. It cannot contain null values and must be unique for each row.
+
+Question 2: Which SQL command is used to retrieve data from a database?
+A) INSERT
+B) UPDATE
+C) SELECT
+D) DELETE
+
+Correct answer: C
+Explanation: The SELECT command is used to query and retrieve data from one or more tables in a database. It allows you to specify which columns and rows you want to retrieve.
+
+Question 3: What does ACID stand for in database transactions?
+A) Atomicity, Consistency, Isolation, Durability
+B) Access, Control, Integration, Data
+C) Automatic, Consistent, Independent, Distributed
+D) Advanced, Centralized, Integrated, Database
+
+Correct answer: A
+Explanation: ACID stands for Atomicity, Consistency, Isolation, and Durability. These are the four key properties that guarantee reliable processing of database transactions.
